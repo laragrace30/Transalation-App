@@ -12,24 +12,24 @@ The Translation App is a Windows Forms application that allows users to translat
 Clone the repository to your local machine using the following command:
 git clone https://github.com/yourusername/translation-app.git
 
-2. Open the Project in Visual Studio
+### 2. Open the Project in Visual Studio
 Open Visual Studio.
 Select File -> Open -> Project/Solution.
 Navigate to the cloned repository folder and open the TranslationApp.sln file.
 
-4. Restore NuGet Packages
+### 3. Restore NuGet Packages
 Right-click on the solution in the Solution Explorer and select Restore NuGet Packages.
-Ensure that the required packages, including Newtonsoft.Json and DetectLanguage are installed.
+Ensure the required packages, including Newtonsoft.Json and DetectLanguage, are installed.
 
-5. Build the Project
+### 4. Build the Project
 Click on Build -> Build Solution or press Ctrl+Shift+B to build the project.
-Ensure there are no build errors.
+Make sure there are no build errors.
 
-8. Run the Application
+### 5. Run the Application
 Click on Debug -> Start Debugging or press F5 to run the application.
 The Translation App should launch, allowing you to enter text, select languages, and translate.
 
-##Usage
+## Usage
 Select Languages: Use the dropdown menus to select the source and target languages.
 Enter Text: Type the text you want to translate in the input textbox.
 Translate: Click the Translate button to fetch and display the translated text in the output textbox.
