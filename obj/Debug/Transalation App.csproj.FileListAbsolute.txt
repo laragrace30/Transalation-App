@@ -1,0 +1,45 @@
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Transalation App.exe.config
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Transalation App.exe
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Transalation App.pdb
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\obj\Debug\Transalation App.csproj.AssemblyReference.cache
+C:\Users\larya\source\repos\Transalation App\Transalation App\obj\Debug\Transalation_App.Form1.resources
+C:\Users\larya\source\repos\Transalation App\Transalation App\obj\Debug\Transalation_App.Properties.Resources.resources
+C:\Users\larya\source\repos\Transalation App\Transalation App\obj\Debug\Transalation App.csproj.GenerateResource.cache
+C:\Users\larya\source\repos\Transalation App\Transalation App\obj\Debug\Transalation App.csproj.CoreCompileInputs.cache
+C:\Users\larya\source\repos\Transalation App\Transalation App\obj\Debug\Transala.A446F098.Up2Date
+C:\Users\larya\source\repos\Transalation App\Transalation App\obj\Debug\Transalation App.exe
+C:\Users\larya\source\repos\Transalation App\Transalation App\obj\Debug\Transalation App.pdb
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Api.Gax.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.Auth.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.Core.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.Translate.v2.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\System.CodeDom.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\System.ValueTuple.dll
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Api.Gax.pdb
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Api.Gax.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.pdb
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.Auth.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.Core.pdb
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.Core.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.Translate.v2.pdb
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Google.Apis.Translate.v2.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\System.CodeDom.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\System.ValueTuple.xml
+C:\Users\larya\source\repos\Transalation App\Transalation App\bin\Debug\DetectLanguage.dll
